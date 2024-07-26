@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.Header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.fields {
+  display: flex;
+  flex-direction: row;
+}
